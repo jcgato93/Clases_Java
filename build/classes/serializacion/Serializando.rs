@@ -1,0 +1,3 @@
+serializacion.Administrador
+serializacion.Serializando
+serializacion.Empleado

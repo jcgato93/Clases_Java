@@ -1,0 +1,2 @@
+Acceso_Ficheros.buffer_lectura
+Acceso_Ficheros.buffer_lee

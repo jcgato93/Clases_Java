@@ -1,0 +1,2 @@
+Acceso_Ficheros.Escribiendo
+Acceso_Ficheros.Escribir_en_fichero
